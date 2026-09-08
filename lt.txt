@@ -1,17 +1,20 @@
-95.40.77.144:443#香港💨Amazon-By Hong
-141.11.148.138:443#香港💨AkileCloud-By Hong
-43.230.9.121:443#香港💨Zenlayer-By Hong
-203.9.150.220:443#香港💨LEASEWEB-By Hong
-103.192.179.132:443#香港💨LANDUPS-By Hong
-216.23.84.65:443#日本💨BITSFLOWCLOUD-By Hong
+82.27.11.155:443#香港💨WAP.AC-By Hong
+2.26.201.194:443#香港💨YUUSEI-By Hong
+47.79.78.40:443#香港💨Alibaba-By Hong
+85.121.245.177:443#香港💨M247-By Hong
+141.11.90.160:443#香港💨AkileCloud-By Hong
+140.83.55.25:443#日本💨Oracle-By Hong
+45.142.125.61:443#日本💨xTom-By Hong
+54.248.227.16:443#日本💨Amazon-By Hong
+168.93.214.185:443#日本💨Evoxt-By Hong
 139.162.79.178:443#日本💨Akamai Connected-By Hong
-203.55.176.251:443#新加坡💨xTom Pty-By Hong
-172.237.81.42:443#新加坡💨Akamai Connected-By Hong
-45.77.173.72:443#新加坡💨The Constant-By Hong
-43.160.220.72:443#新加坡💨Tencent-By Hong
-43.134.62.218:443#新加坡💨Tencent-By Hong
-179.255.146.20:8443#美国💨DMIT-By Hong
-203.31.199.48:8443#美国💨MULTACOM-By Hong
-45.79.227.48:443#美国💨Akamai Connected-By Hong
-136.0.39.41:443#美国💨CNServer-By Hong
-172.235.137.162:443#美国💨Akamai Connected-By Hong
+45.77.174.69:443#新加坡💨The Constant-By Hong
+168.138.165.174:443#新加坡💨Oracle-By Hong
+45.77.254.160:443#新加坡💨The Constant-By Hong
+159.223.36.150:443#新加坡💨DigitalOcean-By Hong
+5.223.21.240:443#新加坡💨Hetzner-By Hong
+43.161.247.216:8443#香港💨Tencent-By Hong
+207.57.142.196:8443#美国💨Zont-By Hong
+77.110.123.82:8443#美国💨NetCrafters-By Hong
+167.88.160.144:8443#美国💨RouterHosting-By Hong
+216.40.87.141:443#美国💨Zont-By Hong
