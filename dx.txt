@@ -1,20 +1,20 @@
 43.175.131.30:443#香港💨ACE-By Hong
+38.147.173.236:443#香港💨LUCIDACLOUD-By Hong
 38.207.133.48:443#香港💨XNNET-By Hong
-16.163.174.115:443#香港💨Amazon-By Hong
-95.40.77.144:443#香港💨Amazon-By Hong
-108.165.100.35:443#香港💨Evoxt-By Hong
+68.64.178.184:443#香港💨LUCIDACLOUD-By Hong
+38.147.190.29:443#香港💨XNNET-By Hong
+188.253.118.241:443#日本💨Akari-By Hong
 54.168.111.158:443#日本💨Amazon-By Hong
-52.68.10.162:443#日本💨Amazon-By Hong
-13.193.106.143:443#日本💨Amazon-By Hong
-15.168.27.230:443#日本💨Amazon-By Hong
-166.88.98.94:443#日本💨Evoxt-By Hong
-54.254.39.187:443#新加坡💨Amazon-By Hong
-54.179.83.143:443#新加坡💨Amazon-By Hong
-56.10.84.128:443#新加坡💨Amazon-By Hong
-54.254.247.156:443#新加坡💨Amazon-By Hong
+209.33.173.110:443#日本💨BAGE-By Hong
+152.175.33.35:443#日本💨ISIF-By Hong
+45.95.212.215:443#日本💨ISIF-By Hong
+124.243.136.65:443#新加坡💨HUAWEI CLOUDS-By Hong
+54.251.91.171:443#新加坡💨Amazon-By Hong
 18.138.252.84:443#新加坡💨Amazon-By Hong
-8.35.211.199:443#美国💨Cloudflare-By Hong
-8.35.211.20:443#美国💨Cloudflare-By Hong
+82.109.96.42:443#新加坡💨DATAWAVE-By Hong
+166.108.238.41:443#新加坡💨HUAWEI CLOUDS-By Hong
 38.59.246.45:443#美国💨Kirino-By Hong
-185.218.7.74:443#美国💨SnapStack-By Hong
-45.143.129.188:443#美国💨xTom-By Hong
+154.83.158.23:443#美国💨Zillion-By Hong
+104.245.13.47:443#美国💨xTom-By Hong
+45.143.130.216:443#美国💨xTom-By Hong
+45.143.128.112:443#美国💨xTom-By Hong
