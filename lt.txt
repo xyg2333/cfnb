@@ -1,20 +1,20 @@
-166.88.11.225:443#香港💨Evoxt-By Hong
-175.29.23.34:443#香港💨PAN-LIAN-By Hong
-155.117.82.92:443#香港💨ZOUTER-By Hong
-42.200.231.108:443#香港💨HKT-By Hong
-217.60.38.113:443#香港💨AS56971-By Hong
-3.112.41.210:443#日本💨Amazon-By Hong
-167.179.119.229:443#日本💨The Constant-By Hong
-3.112.219.69:443#日本💨Amazon-By Hong
-154.83.95.6:443#日本💨AkileCloud-By Hong
-104.238.149.30:443#日本💨The Constant-By Hong
-45.76.187.126:443#新加坡💨The Constant-By Hong
-207.148.123.149:443#新加坡💨The Constant-By Hong
-94.237.65.232:443#新加坡💨UpCloud-By Hong
+38.207.177.204:443#香港💨LUCIDACLOUD-By Hong
+68.64.179.129:443#香港💨LUCIDACLOUD-By Hong
+175.29.23.138:443#香港💨PAN-LIAN-By Hong
+95.182.95.204:443#香港💨- FZCO-By Hong
+205.189.160.50:443#香港💨LEASEWEB-By Hong
+156.231.112.80:443#日本💨AkileCloud-By Hong
+13.113.187.222:443#日本💨Amazon-By Hong
+150.251.158.69:443#日本💨Baxet-By Hong
+85.149.218.105:443#日本💨ZOUTER-By Hong
+152.70.108.9:443#日本💨Oracle-By Hong
+18.139.143.168:443#新加坡💨Amazon-By Hong
+89.28.239.134:443#新加坡💨ByteVirt-By Hong
 139.180.159.133:443#新加坡💨The Constant-By Hong
-43.160.238.73:443#新加坡💨Tencent-By Hong
-140.82.49.187:8443#美国💨The Constant-By Hong
-68.178.203.190:443#美国💨GoDaddy-By Hong
-64.112.42.110:443#美国💨MULTACOM-By Hong
-23.95.252.186:8443#美国💨HostPapa-By Hong
-23.27.22.225:8443#美国💨Evoxt-By Hong
+5.223.95.244:443#新加坡💨Hetzner-By Hong
+45.32.123.157:443#新加坡💨The Constant-By Hong
+108.61.218.27:443#美国💨The Constant-By Hong
+23.224.69.117:8443#美国💨CNSERVERS-By Hong
+77.110.122.86:8443#美国💨NetCrafters-By Hong
+138.2.232.216:8443#美国💨Oracle-By Hong
+35.212.214.143:443#美国💨Google-By Hong
