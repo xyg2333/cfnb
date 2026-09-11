@@ -1,20 +1,20 @@
-209.33.160.61:443#香港💨BAGE-By Hong
-38.147.173.236:443#香港💨LUCIDACLOUD-By Hong
-85.121.244.201:443#香港💨M247-By Hong
-195.58.144.24:443#香港💨PANSTAR-By Hong
-108.165.255.81:443#香港💨Evoxt-By Hong
-167.179.106.168:443#日本💨The Constant-By Hong
-202.182.106.72:443#日本💨The Constant-By Hong
-96.126.191.218:443#日本💨Evoxt-By Hong
-45.142.166.211:443#日本💨xTom-By Hong
-54.250.165.210:443#日本💨Amazon-By Hong
-13.213.65.117:443#新加坡💨Amazon-By Hong
-103.195.191.121:443#新加坡💨Dromatics-By Hong
-43.160.214.98:443#新加坡💨Tencent-By Hong
-43.160.237.18:443#新加坡💨Tencent-By Hong
-193.104.75.6:443#新加坡💨BlueVPS-By Hong
-154.64.235.219:443#美国💨NetLab-By Hong
-217.77.7.35:8443#美国💨Contabo-By Hong
-104.238.129.180:443#美国💨The Constant-By Hong
-8.34.70.167:8443#美国💨Cloudflare-By Hong
-49.51.50.56:443#美国💨Tencent-By Hong
+45.207.156.204:443#香港💨AkileCloud-By Hong
+141.11.149.89:443#香港💨AkileCloud-By Hong
+141.11.90.160:443#香港💨AkileCloud-By Hong
+175.29.23.34:443#香港💨PAN-LIAN-By Hong
+149.104.24.132:443#香港💨LUCIDACLOUD-By Hong
+45.32.248.233:443#日本💨The Constant-By Hong
+185.200.66.206:443#日本💨xTom-By Hong
+202.182.104.22:443#日本💨The Constant-By Hong
+23.27.169.196:443#日本💨Evoxt-By Hong
+64.176.35.237:443#日本💨The Constant-By Hong
+207.148.79.171:443#新加坡💨The Constant-By Hong
+54.169.146.255:443#新加坡💨Amazon-By Hong
+195.85.19.136:443#新加坡💨LEASEWEB-By Hong
+103.25.202.102:443#新加坡💨SimplerCloud-By Hong
+45.66.128.2:443#新加坡💨xTom Pty-By Hong
+149.7.2.79:443#美国💨Cogent-By Hong
+104.249.156.155:8443#美国💨MULTACOM-By Hong
+45.150.226.116:443#美国💨Spartan Host-By Hong
+44.246.4.70:443#美国💨Amazon-By Hong
+205.186.76.227:443#美国💨FDCservers-By Hong
