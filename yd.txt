@@ -1,20 +1,20 @@
-45.136.14.153:443#香港💨LUCIDACLOUD-By Hong
+103.97.201.37:443#香港💨ZOUTER-By Hong
 38.207.133.48:443#香港💨XNNET-By Hong
-149.104.24.156:443#香港💨LUCIDACLOUD-By Hong
-167.148.203.3:443#香港💨ZOUTER-By Hong
-2.27.109.62:443#香港💨Geoscry-By Hong
-3.112.195.202:443#日本💨Amazon-By Hong
-172.237.6.212:443#日本💨Akamai Connected-By Hong
-13.193.244.81:443#日本💨Amazon-By Hong
-139.162.96.110:443#日本💨Akamai Connected-By Hong
-54.65.218.189:443#日本💨Amazon-By Hong
-172.104.171.151:443#新加坡💨Akamai Connected-By Hong
-122.248.238.214:443#新加坡💨Amazon-By Hong
-185.115.207.149:443#新加坡💨ByteVirt-By Hong
-103.3.61.43:443#新加坡💨Akamai Connected-By Hong
-217.116.170.165:443#新加坡💨Coaxial-By Hong
-185.218.7.74:443#美国💨SnapStack-By Hong
-154.83.158.23:443#美国💨Zillion-By Hong
+2.27.109.236:443#香港💨Geoscry-By Hong
+151.243.229.150:443#香港💨ZOUTER-By Hong
+43.175.131.30:443#香港💨ACE-By Hong
+172.104.120.92:443#日本💨Akamai Connected-By Hong
+2.27.134.42:443#日本💨PAN-LIAN-By Hong
+172.104.77.231:443#日本💨Akamai Connected-By Hong
+13.193.212.73:443#日本💨Amazon-By Hong
+151.241.129.194:443#日本💨IDC Cube-By Hong
+103.3.26.26:443#新加坡💨Nexusguard-By Hong
+43.170.38.62:443#新加坡💨ACE-By Hong
+77.93.90.177:443#新加坡💨BAGE-By Hong
+77.93.90.94:443#新加坡💨BAGE-By Hong
+159.65.1.74:443#新加坡💨DigitalOcean-By Hong
 45.143.129.188:443#美国💨xTom-By Hong
+185.218.7.74:443#美国💨SnapStack-By Hong
+45.143.128.112:443#美国💨xTom-By Hong
+193.163.19.232:443#美国💨xTom-By Hong
 104.245.13.12:443#美国💨xTom-By Hong
-216.40.85.231:443#美国💨Zont-By Hong
