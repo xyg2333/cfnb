@@ -1,20 +1,20 @@
-209.33.166.49:443#香港💨BAGE-By Hong
-2.27.109.236:443#香港💨Geoscry-By Hong
-43.247.134.129:443#香港💨VH-By Hong
-91.213.186.189:443#香港💨VMISS-By Hong
-68.64.182.74:443#香港💨LUCIDACLOUD-By Hong
-172.237.6.212:443#日本💨Akamai Connected-By Hong
+43.175.131.30:443#香港💨ACE-By Hong
+167.148.203.71:443#香港💨ZOUTER-By Hong
+178.83.207.31:443#香港💨LINKLESS-By Hong
+216.23.93.27:443#香港💨BITSFLOWCLOUD-By Hong
+155.117.224.63:443#香港💨ZOUTER-By Hong
 139.162.72.62:443#日本💨Akamai Connected-By Hong
-52.194.215.93:443#日本💨Amazon-By Hong
-172.104.120.92:443#日本💨Akamai Connected-By Hong
-45.192.207.40:443#日本💨AkileCloud-By Hong
+54.248.227.16:443#日本💨Amazon-By Hong
+139.162.120.169:443#日本💨Akamai Connected-By Hong
+54.168.111.158:443#日本💨Amazon-By Hong
+18.182.63.120:443#日本💨Amazon-By Hong
 103.3.26.26:443#新加坡💨Nexusguard-By Hong
-139.162.60.149:443#新加坡💨Akamai Connected-By Hong
-103.170.217.60:443#新加坡💨WebHorizon-By Hong
-149.118.48.187:443#新加坡💨Oracle-By Hong
-109.176.19.174:443#新加坡💨ByteVirt-By Hong
+195.172.139.40:443#新加坡💨CYBERJET-By Hong
+160.191.77.194:443#新加坡💨WebHorizon-By Hong
+77.93.90.177:443#新加坡💨BAGE-By Hong
+160.187.141.61:443#新加坡💨WebHorizon-By Hong
 45.143.129.188:443#美国💨xTom-By Hong
 185.218.7.74:443#美国💨SnapStack-By Hong
-104.245.13.12:443#美国💨xTom-By Hong
-193.163.19.232:443#美国💨xTom-By Hong
-104.245.13.47:443#美国💨xTom-By Hong
+194.36.24.9:443#美国💨xTom-By Hong
+45.143.129.20:443#美国💨xTom-By Hong
+45.143.128.112:443#美国💨xTom-By Hong
