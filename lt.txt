@@ -1,20 +1,20 @@
-45.207.157.136:443#香港💨AkileCloud-By Hong
-141.11.90.160:443#香港💨AkileCloud-By Hong
-68.64.178.184:443#香港💨LUCIDACLOUD-By Hong
-154.83.87.115:443#香港💨AkileCloud-By Hong
-103.247.28.26:443#香港💨VMISS-By Hong
-54.168.245.61:443#日本💨Amazon-By Hong
-158.101.143.19:443#日本💨Oracle-By Hong
-96.126.191.14:443#日本💨Evoxt-By Hong
-57.182.89.177:443#日本💨Amazon-By Hong
-45.192.206.31:443#日本💨AkileCloud-By Hong
-52.77.72.146:443#新加坡💨Amazon-By Hong
-172.104.171.151:443#新加坡💨Akamai Connected-By Hong
-15.235.212.159:8443#新加坡💨OVH-By Hong
-207.148.123.149:443#新加坡💨The Constant-By Hong
-161.118.235.148:443#新加坡💨Oracle-By Hong
-179.255.98.84:8443#美国💨DMIT-By Hong
-103.152.113.60:8443#美国💨Black Mesa-By Hong
-37.123.193.44:8443#美国💨HK CEDOC-By Hong
-45.39.60.236:8443#美国💨- FZCO-By Hong
-117.55.228.23:8443#美国💨MULTACOM-By Hong
+95.182.95.204:443#香港💨- FZCO-By Hong
+209.33.161.104:443#香港💨BAGE-By Hong
+103.101.0.73:443#香港💨Netrouting-By Hong
+155.117.224.63:443#香港💨ZOUTER-By Hong
+45.8.186.20:443#香港💨AkileCloud-By Hong
+108.61.163.117:443#日本💨The Constant-By Hong
+5.34.220.84:443#日本💨Akari-By Hong
+45.8.173.136:443#日本💨PANSTAR-By Hong
+166.88.98.239:443#日本💨Evoxt-By Hong
+45.89.232.242:443#日本💨xTom-By Hong
+172.105.121.230:443#新加坡💨Akamai Connected-By Hong
+77.83.241.97:443#新加坡💨SpeedyPage-By Hong
+122.248.238.214:443#新加坡💨Amazon-By Hong
+45.32.127.54:443#新加坡💨The Constant-By Hong
+77.93.90.231:443#新加坡💨BAGE-By Hong
+5.78.203.60:8443#美国💨Hetzner-By Hong
+68.23.85.106:8443#美国💨AT&T-By Hong
+77.110.109.230:8443#美国💨NetCrafters-By Hong
+213.155.8.62:8443#美国💨Newserverlife-By Hong
+117.55.237.222:443#美国💨MULTACOM-By Hong
