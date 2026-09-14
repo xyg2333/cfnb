@@ -1,20 +1,20 @@
-43.175.131.30:443#香港💨ACE-By Hong
-43.247.135.181:443#香港💨VH-By Hong
-91.213.186.115:443#香港💨VMISS-By Hong
-91.213.174.82:443#香港💨VMISS-By Hong
-91.213.186.64:443#香港💨VMISS-By Hong
-45.192.200.133:443#日本💨ACCK-By Hong
-74.113.96.158:443#日本💨DDPS-By Hong
-172.237.1.32:443#日本💨Akamai Connected-By Hong
-92.113.124.38:443#日本💨Dromatics-By Hong
-13.112.165.78:443#日本💨Amazon-By Hong
-43.170.38.62:443#新加坡💨ACE-By Hong
-172.104.49.9:443#新加坡💨Akamai Connected-By Hong
-103.3.61.43:443#新加坡💨Akamai Connected-By Hong
+2.27.109.236:443#香港💨Geoscry-By Hong
+155.117.82.92:443#香港💨ZOUTER-By Hong
+91.213.186.189:443#香港💨VMISS-By Hong
+209.33.166.49:443#香港💨BAGE-By Hong
+45.136.14.153:443#香港💨LUCIDACLOUD-By Hong
+52.194.215.93:443#日本💨Amazon-By Hong
+52.194.191.128:443#日本💨Amazon-By Hong
+193.111.30.37:443#日本💨xTom-By Hong
+156.231.112.151:443#日本💨AkileCloud-By Hong
+139.162.96.110:443#日本💨Akamai Connected-By Hong
+103.3.26.26:443#新加坡💨Nexusguard-By Hong
 77.93.90.94:443#新加坡💨BAGE-By Hong
-160.187.141.134:443#新加坡💨WebHorizon-By Hong
-45.143.129.20:443#美国💨xTom-By Hong
-64.186.245.27:443#美国💨DMIT-By Hong
-144.225.255.169:443#美国💨PANSTAR-By Hong
-104.245.13.161:443#美国💨xTom-By Hong
+89.28.239.171:443#新加坡💨ByteVirt-By Hong
+185.115.207.82:443#新加坡💨ByteVirt-By Hong
+159.223.88.166:443#新加坡💨DigitalOcean-By Hong
 216.40.87.141:443#美国💨Zont-By Hong
+188.255.156.213:443#美国💨CNServer-By Hong
+45.143.130.165:443#美国💨xTom-By Hong
+77.73.8.247:443#美国💨CNServer-By Hong
+179.253.248.201:443#美国💨DMIT-By Hong
