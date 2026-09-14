@@ -1,20 +1,20 @@
 43.175.131.30:443#香港💨ACE-By Hong
-38.147.173.236:443#香港💨LUCIDACLOUD-By Hong
+38.147.173.136:443#香港💨LUCIDACLOUD-By Hong
 45.135.119.123:443#香港💨XNNET-By Hong
-38.55.99.225:443#香港💨VH-By Hong
-83.229.126.137:443#香港💨LUCIDACLOUD-By Hong
-54.248.227.16:443#日本💨Amazon-By Hong
-54.92.75.254:443#日本💨Amazon-By Hong
-54.250.165.210:443#日本💨Amazon-By Hong
-18.182.63.120:443#日本💨Amazon-By Hong
+68.64.182.74:443#香港💨LUCIDACLOUD-By Hong
+68.64.179.129:443#香港💨LUCIDACLOUD-By Hong
 52.195.211.96:443#日本💨Amazon-By Hong
-185.194.54.104:443#新加坡💨xTom Pty-By Hong
-124.243.136.65:443#新加坡💨HUAWEI CLOUDS-By Hong
-13.212.207.124:443#新加坡💨Amazon-By Hong
-3.1.187.169:443#新加坡💨Amazon-By Hong
-54.169.146.255:443#新加坡💨Amazon-By Hong
+54.248.227.16:443#日本💨Amazon-By Hong
+54.250.165.210:443#日本💨Amazon-By Hong
+52.194.215.93:443#日本💨Amazon-By Hong
+13.193.0.195:443#日本💨Amazon-By Hong
+54.254.247.156:443#新加坡💨Amazon-By Hong
+52.221.53.171:443#新加坡💨Amazon-By Hong
+54.254.39.187:443#新加坡💨Amazon-By Hong
+18.139.30.198:443#新加坡💨Amazon-By Hong
+18.141.208.166:443#新加坡💨Amazon-By Hong
 8.35.211.163:443#美国💨Cloudflare-By Hong
-8.39.125.34:443#美国💨Cloudflare-By Hong
-8.39.125.158:443#美国💨Cloudflare-By Hong
 8.35.211.20:443#美国💨Cloudflare-By Hong
-8.35.211.167:443#美国💨Cloudflare-By Hong
+38.55.108.5:443#美国💨Zont-By Hong
+209.209.58.159:443#美国💨Misaka-By Hong
+194.36.24.9:443#美国💨xTom-By Hong
