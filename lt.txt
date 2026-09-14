@@ -1,20 +1,20 @@
-209.33.161.104:443#香港💨BAGE-By Hong
-45.207.157.136:443#香港💨AkileCloud-By Hong
-141.11.149.78:443#香港💨AkileCloud-By Hong
-138.252.80.70:443#香港💨Intelligent-By Hong
-23.26.201.11:443#香港💨Evoxt-By Hong
-54.150.132.91:443#日本💨Amazon-By Hong
-45.32.26.111:443#日本💨The Constant-By Hong
-212.135.211.79:443#日本💨CYBERVERSE-By Hong
-45.8.115.43:443#日本💨xTom-By Hong
-45.192.206.31:443#日本💨AkileCloud-By Hong
-45.76.189.166:443#新加坡💨The Constant-By Hong
-52.77.54.144:443#新加坡💨Amazon-By Hong
-109.176.19.174:443#新加坡💨ByteVirt-By Hong
-45.77.254.160:443#新加坡💨The Constant-By Hong
-52.221.158.37:443#新加坡💨Amazon-By Hong
-203.88.124.86:8443#美国💨MULTACOM-By Hong
-149.248.21.0:443#美国💨The Constant-By Hong
-203.88.122.7:443#美国💨MULTACOM-By Hong
-45.76.169.250:443#美国💨The Constant-By Hong
-117.55.233.107:443#美国💨MULTACOM-By Hong
+155.117.224.193:443#香港💨ZOUTER-By Hong
+83.147.60.79:443#香港💨Hytron-By Hong
+103.213.4.57:443#香港💨Skywolf-By Hong
+2.27.109.236:443#香港💨Geoscry-By Hong
+207.57.131.172:443#香港💨LUCIDACLOUD-By Hong
+5.34.220.80:443#日本💨Akari-By Hong
+45.202.255.219:443#日本💨Catixs-By Hong
+209.33.173.110:443#日本💨BAGE-By Hong
+45.192.207.40:443#日本💨AkileCloud-By Hong
+161.33.29.51:443#日本💨Oracle-By Hong
+149.28.153.207:443#新加坡💨The Constant-By Hong
+195.172.139.40:443#新加坡💨CYBERJET-By Hong
+139.180.220.87:443#新加坡💨The Constant-By Hong
+45.77.173.72:443#新加坡💨The Constant-By Hong
+82.153.135.54:443#新加坡💨AkileCloud-By Hong
+202.5.16.17:8443#美国💨HostUS-By Hong
+134.195.91.66:8443#美国💨HostHatch-By Hong
+192.119.76.161:8443#美国💨HostPapa-By Hong
+208.68.180.65:8443#美国💨ByteVirt-By Hong
+38.148.253.120:443#美国💨FASTNET-By Hong
