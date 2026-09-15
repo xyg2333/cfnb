@@ -1,20 +1,16 @@
-203.25.119.9:8443#香港💨xTom-By Hong
-45.145.228.3:8443#香港💨LUCIDACLOUD-By Hong
-103.242.2.214:8443#香港💨Cloudie-By Hong
-104.208.81.205:8443#香港💨Microsoft-By Hong
-209.33.166.199:443#香港💨BAGE-By Hong
-172.237.12.70:443#日本💨Akamai Connected-By Hong
-141.11.138.218:443#日本💨ByteVirt-By Hong
-13.193.215.10:443#日本💨Amazon-By Hong
-45.63.124.130:443#日本💨The Constant-By Hong
-5.34.220.84:443#日本💨Akari-By Hong
-103.3.26.26:443#新加坡💨Nexusguard-By Hong
-165.245.176.192:443#新加坡💨DigitalOcean-By Hong
-45.32.100.162:443#新加坡💨The Constant-By Hong
-43.134.174.114:443#新加坡💨Tencent-By Hong
-149.28.140.125:443#新加坡💨The Constant-By Hong
-93.179.113.25:8443#美国💨IT7-By Hong
-155.94.171.10:8443#美国💨HostPapa-By Hong
-154.17.16.219:8443#美国💨DMIT-By Hong
-154.17.229.40:8443#美国💨DMIT-By Hong
-179.255.98.84:8443#美国💨DMIT-By Hong
+45.202.248.172:443#香港💨AkileCloud-By Hong
+209.33.161.104:443#香港💨BAGE-By Hong
+96.9.228.241:443#香港💨LEASEWEB-By Hong
+193.134.209.123:443#香港💨LUCIDACLOUD-By Hong
+68.64.178.184:443#香港💨LUCIDACLOUD-By Hong
+5.34.220.81:443#日本💨Akari-By Hong
+207.148.94.254:443#日本💨The Constant-By Hong
+167.179.77.74:443#日本💨The Constant-By Hong
+23.27.169.249:443#日本💨Evoxt-By Hong
+45.32.248.233:443#日本💨The Constant-By Hong
+82.47.245.2:443#新加坡💨FDCservers-By Hong
+139.180.137.157:443#新加坡💨The Constant-By Hong
+45.76.176.85:443#新加坡💨The Constant-By Hong
+168.138.176.180:443#新加坡💨Oracle-By Hong
+43.160.238.73:443#新加坡💨Tencent-By Hong
+117.55.226.118:443#美国💨MULTACOM-By Hong
