@@ -1,20 +1,20 @@
-103.101.0.73:443#香港💨Netrouting-By Hong
-156.226.168.252:443#香港💨AkileCloud-By Hong
-38.147.173.236:443#香港💨LUCIDACLOUD-By Hong
-45.149.186.55:443#香港💨AkileCloud-By Hong
-85.121.51.201:443#香港💨M247-By Hong
-185.200.65.32:443#日本💨xTom-By Hong
-23.27.201.85:443#日本💨Evoxt-By Hong
-156.246.95.196:443#日本💨AkileCloud-By Hong
-156.246.91.88:443#日本💨AkileCloud-By Hong
-156.231.112.151:443#日本💨AkileCloud-By Hong
-13.212.207.124:443#新加坡💨Amazon-By Hong
-8.222.221.91:443#新加坡💨Alibaba-By Hong
-139.162.33.165:443#新加坡💨Akamai Connected-By Hong
-138.2.64.229:443#新加坡💨Oracle-By Hong
-13.212.33.11:443#新加坡💨Amazon-By Hong
-8.34.70.87:8443#美国💨Cloudflare-By Hong
-8.34.70.113:8443#美国💨Cloudflare-By Hong
-154.64.224.37:443#美国💨NetLab-By Hong
-8.34.70.218:8443#美国💨Cloudflare-By Hong
-144.225.130.58:443#美国💨CNServer-By Hong
+172.93.188.25:443#香港💨xTom-By Hong
+95.182.95.75:443#香港💨- FZCO-By Hong
+43.159.1.170:443#香港💨Tencent-By Hong
+103.213.4.77:443#香港💨Skywolf-By Hong
+156.224.77.87:443#香港💨AkileCloud-By Hong
+108.61.160.16:443#日本💨The Constant-By Hong
+5.34.220.84:443#日本💨Akari-By Hong
+5.34.220.80:443#日本💨Akari-By Hong
+172.104.81.253:443#日本💨Akamai Connected-By Hong
+104.238.148.149:443#日本💨The Constant-By Hong
+43.160.241.174:443#新加坡💨Tencent-By Hong
+52.77.72.146:443#新加坡💨Amazon-By Hong
+47.131.189.221:443#新加坡💨Amazon-By Hong
+139.162.60.149:443#新加坡💨Akamai Connected-By Hong
+194.127.193.43:443#新加坡💨LEASEWEB-By Hong
+8.34.70.83:8443#美国💨Cloudflare-By Hong
+23.80.90.243:8443#美国💨Leaseweb-By Hong
+202.5.16.8:8443#美国💨HostUS-By Hong
+179.255.120.31:8443#美国💨DMIT-By Hong
+154.53.75.110:8443#美国💨EASY LINK-By Hong
