@@ -1,20 +1,20 @@
-43.175.131.30:443#香港💨ACE-By Hong
-103.97.201.37:443#香港💨ZOUTER-By Hong
-209.33.166.199:443#香港💨BAGE-By Hong
-103.247.28.26:443#香港💨VMISS-By Hong
-43.247.135.181:443#香港💨VH-By Hong
-172.237.0.160:443#日本💨Akamai Connected-By Hong
-45.192.243.42:443#日本💨ACCK-By Hong
-13.193.215.10:443#日本💨Amazon-By Hong
-139.162.120.169:443#日本💨Akamai Connected-By Hong
-35.74.168.128:443#日本💨Amazon-By Hong
-82.109.96.194:443#新加坡💨DATAWAVE-By Hong
-160.187.141.61:443#新加坡💨WebHorizon-By Hong
-77.93.90.177:443#新加坡💨BAGE-By Hong
-138.2.66.236:443#新加坡💨Oracle-By Hong
-178.93.160.236:443#新加坡💨FDCservers-By Hong
-38.59.246.45:443#美国💨Kirino-By Hong
-209.209.58.159:443#美国💨Misaka-By Hong
-154.17.20.66:443#美国💨DMIT-By Hong
-154.17.29.72:443#美国💨DMIT-By Hong
-23.138.12.90:443#美国💨Zenixcloud-By Hong
+209.33.166.49:443#香港💨BAGE-By Hong
+68.64.178.184:443#香港💨LUCIDACLOUD-By Hong
+68.64.178.52:443#香港💨LUCIDACLOUD-By Hong
+155.117.82.92:443#香港💨ZOUTER-By Hong
+149.104.24.156:443#香港💨LUCIDACLOUD-By Hong
+45.192.242.145:443#日本💨ACCK-By Hong
+45.192.200.205:443#日本💨ACCK-By Hong
+2.27.134.42:443#日本💨PAN-LIAN-By Hong
+85.149.218.105:443#日本💨ZOUTER-By Hong
+61.124.1.97:443#日本💨Initiative-By Hong
+103.3.26.26:443#新加坡💨Nexusguard-By Hong
+139.162.41.109:443#新加坡💨Akamai Connected-By Hong
+217.116.170.32:443#新加坡💨Coaxial-By Hong
+139.162.40.240:443#新加坡💨Akamai Connected-By Hong
+139.162.60.149:443#新加坡💨Akamai Connected-By Hong
+179.255.109.171:443#美国💨DMIT-By Hong
+64.186.241.132:443#美国💨DMIT-By Hong
+64.186.245.27:443#美国💨DMIT-By Hong
+38.95.79.249:443#美国💨Zont-By Hong
+179.255.108.180:443#美国💨DMIT-By Hong
