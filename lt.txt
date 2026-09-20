@@ -1,20 +1,4 @@
-96.9.228.241:443#香港💨LEASEWEB-By Hong
-39.109.50.208:443#香港💨Jiang Songyang-By Hong
-91.213.186.64:443#香港💨VMISS-By Hong
-103.213.4.77:443#香港💨Skywolf-By Hong
-141.11.149.89:443#香港💨AkileCloud-By Hong
-45.32.38.133:443#日本💨The Constant-By Hong
-108.61.160.16:443#日本💨The Constant-By Hong
-164.70.117.150:8443#日本💨NTT PC-By Hong
-108.160.132.132:443#日本💨The Constant-By Hong
-103.150.8.155:443#日本💨xTom-By Hong
-103.195.191.165:443#新加坡💨Dromatics-By Hong
-18.141.208.166:443#新加坡💨Amazon-By Hong
-43.160.254.163:443#新加坡💨Tencent-By Hong
-157.245.155.10:443#新加坡💨DigitalOcean-By Hong
-51.79.177.53:443#新加坡💨OVH-By Hong
-23.254.178.168:8443#美国💨HostPapa-By Hong
-159.65.105.231:8443#美国💨DigitalOcean-By Hong
-179.253.242.15:8443#US-By Hong
-108.165.12.120:8443#US-By Hong
-23.94.70.13:8443#US-By Hong
+172.86.90.86:8443#美国💨RouterHosting-By Hong
+45.77.190.163:443#美国💨The Constant-By Hong
+166.88.33.113:443#美国💨CNServer-By Hong
+8.34.70.167:8443#美国💨Cloudflare-By Hong
