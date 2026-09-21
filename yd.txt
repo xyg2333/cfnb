@@ -1,20 +1,19 @@
-209.33.166.49:443#香港💨BAGE-By Hong
-68.64.178.184:443#香港💨LUCIDACLOUD-By Hong
-68.64.178.52:443#香港💨LUCIDACLOUD-By Hong
-155.117.82.92:443#香港💨ZOUTER-By Hong
-149.104.24.156:443#香港💨LUCIDACLOUD-By Hong
-45.192.242.145:443#日本💨ACCK-By Hong
-45.192.200.205:443#日本💨ACCK-By Hong
-2.27.134.42:443#日本💨PAN-LIAN-By Hong
-85.149.218.105:443#日本💨ZOUTER-By Hong
-61.124.1.97:443#日本💨Initiative-By Hong
-103.3.26.26:443#新加坡💨Nexusguard-By Hong
-139.162.41.109:443#新加坡💨Akamai Connected-By Hong
-217.116.170.32:443#新加坡💨Coaxial-By Hong
+85.121.51.219:443#香港💨M247-By Hong
+91.213.186.64:443#香港💨VMISS-By Hong
+116.49.177.246:8443#香港💨HKT-By Hong
+149.104.30.51:443#香港💨LUCIDACLOUD-By Hong
+108.165.255.238:8443#香港💨Evoxt-By Hong
+158.101.159.85:443#日本💨Oracle-By Hong
+158.101.143.19:443#日本💨Oracle-By Hong
+172.233.93.39:443#日本💨Akamai Connected-By Hong
+161.33.15.101:443#日本💨Oracle-By Hong
+43.224.33.216:443#日本💨The Constant-By Hong
+213.35.105.58:443#新加坡💨Oracle-By Hong
 139.162.40.240:443#新加坡💨Akamai Connected-By Hong
-139.162.60.149:443#新加坡💨Akamai Connected-By Hong
-179.255.109.171:443#美国💨DMIT-By Hong
-64.186.241.132:443#美国💨DMIT-By Hong
-64.186.245.27:443#美国💨DMIT-By Hong
-38.95.79.249:443#美国💨Zont-By Hong
-179.255.108.180:443#美国💨DMIT-By Hong
+165.232.161.8:443#新加坡💨DigitalOcean-By Hong
+185.115.207.102:443#新加坡💨ByteVirt-By Hong
+162.35.169.69:443#美国💨Interserver-By Hong
+154.21.93.187:8443#美国💨DMIT-By Hong
+67.230.171.19:443#美国💨IT7-By Hong
+64.186.244.169:8443#美国💨DMIT-By Hong
+153.75.235.241:8443#美国💨Interserver-By Hong
