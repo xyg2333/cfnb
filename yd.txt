@@ -1,20 +1,20 @@
-43.175.131.30:443#香港💨ACE-By Hong
+43.247.135.181:443#香港💨VH-By Hong
 91.213.186.189:443#香港💨VMISS-By Hong
-103.101.0.73:443#香港💨Netrouting-By Hong
 91.213.174.82:443#香港💨VMISS-By Hong
-103.97.201.37:443#香港💨ZOUTER-By Hong
-69.8.128.99:443#日本💨ByteVirt-By Hong
-150.230.206.130:443#日本💨Oracle-By Hong
-45.192.201.197:443#日本💨ACCK-By Hong
-168.110.17.182:443#日本💨Oracle-By Hong
+209.33.161.104:443#香港💨BAGE-By Hong
+45.221.115.25:8443#香港💨VMISS-By Hong
+172.104.77.231:443#日本💨Akamai Connected-By Hong
+172.235.205.108:443#日本💨Akamai Connected-By Hong
 69.8.128.163:443#日本💨ByteVirt-By Hong
+45.32.44.220:443#日本💨The Constant-By Hong
+131.186.33.120:443#日本💨Oracle-By Hong
 103.3.26.26:443#新加坡💨Nexusguard-By Hong
-82.109.96.194:443#新加坡💨DATAWAVE-By Hong
-139.162.40.240:443#新加坡💨Akamai Connected-By Hong
-139.162.60.149:443#新加坡💨Akamai Connected-By Hong
-195.172.139.40:443#新加坡💨CYBERJET-By Hong
-38.59.246.45:443#美国💨Kirino-By Hong
-64.186.245.27:443#美国💨DMIT-By Hong
-179.255.109.171:443#美国💨DMIT-By Hong
-38.55.111.161:443#美国💨Zont-By Hong
-38.95.79.242:443#美国💨Zont-By Hong
+103.3.61.43:443#新加坡💨Akamai Connected-By Hong
+172.104.49.9:443#新加坡💨Akamai Connected-By Hong
+89.28.239.134:443#新加坡💨ByteVirt-By Hong
+160.191.77.194:443#新加坡💨WebHorizon-By Hong
+154.23.240.208:443#美国💨FASTNET-By Hong
+38.148.253.120:443#美国💨FASTNET-By Hong
+194.36.24.9:443#美国💨xTom-By Hong
+154.23.164.57:443#美国💨FASTNET-By Hong
+154.23.163.15:443#美国💨FASTNET-By Hong
