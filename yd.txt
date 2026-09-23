@@ -1,20 +1,20 @@
-43.247.135.181:443#香港💨VH-By Hong
-91.213.186.189:443#香港💨VMISS-By Hong
-91.213.174.82:443#香港💨VMISS-By Hong
-209.33.161.104:443#香港💨BAGE-By Hong
-45.221.115.25:8443#香港💨VMISS-By Hong
-172.104.77.231:443#日本💨Akamai Connected-By Hong
-172.235.205.108:443#日本💨Akamai Connected-By Hong
-69.8.128.163:443#日本💨ByteVirt-By Hong
-45.32.44.220:443#日本💨The Constant-By Hong
-131.186.33.120:443#日本💨Oracle-By Hong
-103.3.26.26:443#新加坡💨Nexusguard-By Hong
-103.3.61.43:443#新加坡💨Akamai Connected-By Hong
-172.104.49.9:443#新加坡💨Akamai Connected-By Hong
-89.28.239.134:443#新加坡💨ByteVirt-By Hong
-160.191.77.194:443#新加坡💨WebHorizon-By Hong
-154.23.240.208:443#美国💨FASTNET-By Hong
-38.148.253.120:443#美国💨FASTNET-By Hong
+43.175.131.30:443#香港💨ACE-By Hong
+91.213.186.115:443#香港💨VMISS-By Hong
+141.11.149.89:443#香港💨AkileCloud-By Hong
+38.55.99.225:443#香港💨VH-By Hong
+209.33.166.199:443#香港💨BAGE-By Hong
+172.237.5.239:443#日本💨Akamai Connected-By Hong
+45.192.200.205:443#日本💨ACCK-By Hong
+45.192.206.184:443#日本💨AkileCloud-By Hong
+69.8.128.99:443#日本💨ByteVirt-By Hong
+54.150.132.91:443#日本💨Amazon-By Hong
+168.138.189.82:443#新加坡💨Oracle-By Hong
+134.185.83.89:443#新加坡💨Oracle-By Hong
+141.11.43.124:443#新加坡💨Streamline Servers Pty-By Hong
+172.237.81.42:443#新加坡💨Akamai Connected-By Hong
+82.47.245.2:443#新加坡💨FDCservers-By Hong
 194.36.24.9:443#美国💨xTom-By Hong
-154.23.164.57:443#美国💨FASTNET-By Hong
-154.23.163.15:443#美国💨FASTNET-By Hong
+156.154.245.83:443#美国💨Arbor-By Hong
+179.255.152.1:443#美国💨DMIT-By Hong
+144.225.255.169:443#美国💨PANSTAR-By Hong
+179.253.230.150:443#美国💨DMIT-By Hong
