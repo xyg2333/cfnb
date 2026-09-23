@@ -1,20 +1,10 @@
-154.94.224.231:8443#香港💨cognetcloud-By Hong
-202.155.155.41:443#香港💨IDC Cube-By Hong
-175.29.23.179:443#香港💨PAN-LIAN-By Hong
-103.190.232.236:443#香港💨Catixs-By Hong
-47.239.4.246:8443#香港💨Alibaba-By Hong
-66.245.219.45:443#日本💨The Constant-By Hong
-152.70.86.199:443#日本💨Oracle-By Hong
-139.180.202.116:8443#日本💨The Constant-By Hong
-141.11.139.128:443#日本💨ByteVirt-By Hong
-45.77.24.82:443#日本💨The Constant-By Hong
-149.28.135.30:443#新加坡💨The Constant-By Hong
-45.130.164.109:443#新加坡💨Kamatera-By Hong
-188.166.234.177:443#新加坡💨DigitalOcean-By Hong
-139.162.41.109:443#新加坡💨Akamai Connected-By Hong
-161.118.208.138:443#新加坡💨Oracle-By Hong
-216.234.140.7:8443#美国💨DMIT-By Hong
-179.255.102.6:8443#美国💨DMIT-By Hong
-182.255.84.137:8443#美国💨MULTACOM-By Hong
-205.186.76.251:443#美国💨FDCservers-By Hong
-185.92.181.218:8443#美国💨AS56971-By Hong
+206.237.120.71:8443#日本💨VMISS-By Hong
+34.96.219.247:8443#香港💨Google-By Hong
+96.9.228.241:443#香港💨LEASEWEB-By Hong
+172.93.188.25:443#香港💨xTom-By Hong
+156.224.79.247:443#香港💨AkileCloud-By Hong
+140.245.102.125:8443#新加坡💨Oracle-By Hong
+8.222.143.208:8443#新加坡💨Alibaba-By Hong
+116.251.216.23:8443#新加坡💨OneAsiaHost-By Hong
+43.134.3.228:8443#新加坡💨Tencent-By Hong
+134.185.82.247:8443#新加坡💨Oracle-By Hong
