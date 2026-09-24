@@ -1,10 +1,20 @@
-206.237.120.71:8443#日本💨VMISS-By Hong
-34.96.219.247:8443#香港💨Google-By Hong
-96.9.228.241:443#香港💨LEASEWEB-By Hong
 172.93.188.25:443#香港💨xTom-By Hong
-156.224.79.247:443#香港💨AkileCloud-By Hong
-140.245.102.125:8443#新加坡💨Oracle-By Hong
-8.222.143.208:8443#新加坡💨Alibaba-By Hong
-116.251.216.23:8443#新加坡💨OneAsiaHost-By Hong
-43.134.3.228:8443#新加坡💨Tencent-By Hong
-134.185.82.247:8443#新加坡💨Oracle-By Hong
+202.61.72.129:443#香港💨Evoxt-By Hong
+156.226.168.206:443#香港💨AkileCloud-By Hong
+167.148.203.71:443#香港💨ZOUTER-By Hong
+143.20.156.116:443#香港💨ZOUTER-By Hong
+45.77.130.24:443#日本💨The Constant-By Hong
+207.148.115.152:443#日本💨The Constant-By Hong
+150.230.109.81:8443#日本💨Oracle-By Hong
+45.8.173.197:443#日本💨PANSTAR-By Hong
+45.192.206.184:443#日本💨AkileCloud-By Hong
+213.35.100.242:443#新加坡💨Oracle-By Hong
+149.28.154.5:443#新加坡💨The Constant-By Hong
+161.118.211.215:443#新加坡💨Oracle-By Hong
+161.118.219.229:443#新加坡💨Oracle-By Hong
+45.32.121.27:443#新加坡💨The Constant-By Hong
+103.11.76.183:443#美国💨MULTACOM-By Hong
+23.254.248.161:443#美国💨HostPapa-By Hong
+144.202.106.129:443#美国💨The Constant-By Hong
+45.15.124.97:443#美国💨DESIVPS-By Hong
+192.9.242.152:443#美国💨Oracle-By Hong
