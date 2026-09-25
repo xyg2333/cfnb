@@ -1,20 +1,20 @@
+82.27.116.181:443#香港💨DEBEE-By Hong
+83.229.123.11:8443#香港💨LUCIDACLOUD-By Hong
+45.192.247.199:443#香港💨AkileCloud-By Hong
 141.11.90.160:443#香港💨AkileCloud-By Hong
-95.182.95.204:443#香港💨- FZCO-By Hong
-209.33.161.104:443#香港💨BAGE-By Hong
-47.86.103.60:443#香港💨Alibaba-By Hong
-140.245.58.23:443#新加坡💨Oracle-By Hong
-5.34.220.82:443#日本💨Akari-By Hong
-185.200.66.206:443#日本💨xTom-By Hong
-64.176.62.21:443#日本💨The Constant-By Hong
-45.77.130.6:443#日本💨The Constant-By Hong
-185.141.219.232:443#日本💨Baxet-By Hong
-162.4.173.241:443#新加坡💨VAYNE-By Hong
-185.81.28.39:443#新加坡💨AkileCloud-By Hong
-104.64.192.116:443#新加坡💨Akamai Connected-By Hong
-152.42.254.219:443#新加坡💨DigitalOcean-By Hong
-195.172.139.40:443#新加坡💨CYBERJET-By Hong
-132.226.73.78:443#美国💨Oracle-By Hong
-45.63.56.34:443#美国💨The Constant-By Hong
-64.181.230.8:443#美国💨Oracle-By Hong
-144.126.139.22:8443#美国💨Contabo-By Hong
-141.148.160.83:443#美国💨Oracle-By Hong
+151.242.125.102:443#香港💨AkileCloud-By Hong
+150.230.107.89:443#日本💨Oracle-By Hong
+45.153.246.5:443#日本💨xTom-By Hong
+160.251.210.41:443#日本💨GMO-By Hong
+64.110.101.115:443#日本💨Oracle-By Hong
+64.176.44.23:443#日本💨The Constant-By Hong
+178.128.92.205:8443#新加坡💨DigitalOcean-By Hong
+161.118.208.138:443#新加坡💨Oracle-By Hong
+128.1.186.61:443#新加坡💨Zenlayer-By Hong
+165.22.106.241:443#新加坡💨DigitalOcean-By Hong
+168.138.176.180:443#新加坡💨Oracle-By Hong
+192.129.240.161:443#美国💨HostPapa-By Hong
+129.153.206.0:443#美国💨Oracle-By Hong
+141.148.140.81:8443#美国💨Oracle-By Hong
+179.255.148.157:8443#美国💨DMIT-By Hong
+65.75.201.83:8443#美国💨HostRush-By Hong
