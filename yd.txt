@@ -1,20 +1,10 @@
-43.175.131.30:443#香港💨ACE-By Hong
-155.117.224.63:443#香港💨ZOUTER-By Hong
-58.176.95.46:443#香港💨Hong Kong-By Hong
-209.33.166.199:443#香港💨BAGE-By Hong
-155.117.224.193:443#香港💨ZOUTER-By Hong
-87.86.22.186:443#日本💨HYW-By Hong
-14.137.235.40:443#日本💨Initiative-By Hong
-160.16.109.149:443#日本💨SAKURA-By Hong
-172.235.198.90:443#日本💨Akamai Connected-By Hong
-43.128.227.188:8443#日本💨Tencent-By Hong
-103.3.26.26:443#新加坡💨Nexusguard-By Hong
-139.162.61.198:443#新加坡💨Akamai Connected-By Hong
-104.64.192.116:443#新加坡💨Akamai Connected-By Hong
-139.162.60.149:443#新加坡💨Akamai Connected-By Hong
-172.104.180.121:443#新加坡💨Akamai Connected-By Hong
-179.255.108.180:443#美国💨DMIT-By Hong
-8.34.70.99:443#美国💨Cloudflare-By Hong
-38.64.57.20:443#美国💨EASY LINK-By Hong
-207.246.105.197:443#美国💨The Constant-By Hong
-45.32.80.214:443#美国💨The Constant-By Hong
+129.211.188.184:8443#中国💨Tencent Computer-By Hong
+151.242.125.102:443#香港💨AkileCloud-By Hong
+47.76.171.37:8443#香港💨Alibaba-By Hong
+2.27.132.136:443#香港💨Geoscry-By Hong
+68.64.182.79:443#香港💨LUCIDACLOUD-By Hong
+3.234.228.173:443#美国💨Amazon-By Hong
+140.99.254.179:443#美国💨GTHost-By Hong
+209.50.227.182:443#美国💨Leaseweb-By Hong
+150.136.236.251:443#美国💨Oracle-By Hong
+31.169.125.14:8443#美国💨Baykov Ilya Sergeevich-By Hong
