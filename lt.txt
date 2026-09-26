@@ -1,20 +1,20 @@
-103.190.232.236:443#香港💨Catixs-By Hong
-143.20.156.116:443#香港💨ZOUTER-By Hong
-103.193.172.196:443#香港💨YUNYOO-By Hong
-43.247.135.181:443#香港💨VH-By Hong
-85.121.245.35:443#香港💨M247-By Hong
-141.147.181.67:8443#日本💨Oracle-By Hong
-150.230.109.81:8443#日本💨Oracle-By Hong
-217.142.233.175:443#日本💨Oracle-By Hong
-138.3.217.198:8443#日本💨Oracle-By Hong
-158.101.65.33:8443#JP-By Hong
-168.107.74.239:443#新加坡💨Oracle-By Hong
-172.104.60.181:8443#新加坡💨Akamai Connected-By Hong
-207.148.127.157:8443#新加坡💨The Constant-By Hong
-209.97.165.213:443#新加坡💨DigitalOcean-By Hong
-52.221.4.213:443#新加坡💨Amazon-By Hong
-45.39.230.155:8443#美国💨- FZCO-By Hong
-154.9.241.186:443#美国💨NetLab-By Hong
-203.88.127.175:443#美国💨MULTACOM-By Hong
-149.248.39.216:443#美国💨The Constant-By Hong
-45.202.242.132:443#美国💨AkileCloud-By Hong
+45.8.186.20:443#香港💨AkileCloud-By Hong
+95.40.77.144:443#香港💨Amazon-By Hong
+43.175.131.30:443#香港💨ACE-By Hong
+20.205.6.73:443#香港💨Microsoft-By Hong
+209.33.166.199:443#香港💨BAGE-By Hong
+8.222.193.153:443#新加坡💨Alibaba-By Hong
+8.219.155.125:443#新加坡💨Alibaba-By Hong
+23.27.201.85:443#日本💨Evoxt-By Hong
+45.202.254.133:443#日本💨Catixs-By Hong
+45.77.129.201:443#日本💨The Constant-By Hong
+149.28.150.141:443#新加坡💨The Constant-By Hong
+146.235.22.161:443#新加坡💨Oracle-By Hong
+161.118.208.138:443#新加坡💨Oracle-By Hong
+43.160.237.18:443#新加坡💨Tencent-By Hong
+13.212.207.124:443#新加坡💨Amazon-By Hong
+208.68.180.65:8443#美国💨ByteVirt-By Hong
+173.249.210.197:8443#美国💨tzulo-By Hong
+179.253.233.126:8443#美国💨DMIT-By Hong
+94.183.182.139:8443#美国💨AS56971-By Hong
+192.3.216.76:8443#美国💨HostPapa-By Hong
