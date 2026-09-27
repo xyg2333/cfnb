@@ -1,10 +1,8 @@
-129.211.188.184:8443#中国💨Tencent Computer-By Hong
-151.242.125.102:443#香港💨AkileCloud-By Hong
-47.76.171.37:8443#香港💨Alibaba-By Hong
-2.27.132.136:443#香港💨Geoscry-By Hong
-68.64.182.79:443#香港💨LUCIDACLOUD-By Hong
-3.234.228.173:443#美国💨Amazon-By Hong
-140.99.254.179:443#美国💨GTHost-By Hong
-209.50.227.182:443#美国💨Leaseweb-By Hong
-150.136.236.251:443#美国💨Oracle-By Hong
-31.169.125.14:8443#美国💨Baykov Ilya Sergeevich-By Hong
+103.97.201.71:443#香港💨ZOUTER-By Hong
+45.152.67.18:443#英国💨LUCIDACLOUD-By Hong
+185.155.235.58:8443#英国💨Kuxo-By Hong
+173.255.232.122:443#美国💨Akamai Connected-By Hong
+173.199.122.164:8443#美国💨The Constant-By Hong
+45.77.206.201:443#美国💨The Constant-By Hong
+206.189.197.197:443#美国💨DigitalOcean-By Hong
+82.39.213.181:8443#美国💨HOSTKEY-By Hong
