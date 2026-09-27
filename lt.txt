@@ -1,12 +1,20 @@
-23.156.153.40:443#香港💨ZYC-By Hong
-139.28.169.72:443#香港💨ADCDATA-By Hong
+141.11.76.66:443#香港💨LSHIY-By Hong
+96.9.228.207:443#香港💨LEASEWEB-By Hong
+45.192.247.199:443#香港💨AkileCloud-By Hong
+141.11.148.138:443#香港💨AkileCloud-By Hong
 42.200.173.201:443#香港💨HKT-By Hong
-45.196.235.64:443#香港💨LSHIY-By Hong
-175.29.23.179:443#香港💨PAN-LIAN-By Hong
-161.33.14.183:8443#日本💨Oracle-By Hong
-140.83.58.91:443#日本💨Oracle-By Hong
-157.228.130.244:443#新加坡💨FIRST SERVER-By Hong
-168.144.109.68:443#新加坡💨DigitalOcean-By Hong
-146.235.22.161:443#新加坡💨Oracle-By Hong
-162.4.173.148:443#新加坡💨VAYNE-By Hong
-5.223.93.126:443#新加坡💨Hetzner-By Hong
+158.179.184.164:8443#日本💨Oracle-By Hong
+45.76.222.52:8443#日本💨The Constant-By Hong
+149.28.21.186:8443#日本💨The Constant-By Hong
+158.101.132.216:8443#日本💨Oracle-By Hong
+194.68.27.154:8443#日本💨M247-By Hong
+195.85.19.136:443#新加坡💨LEASEWEB-By Hong
+43.134.174.114:443#新加坡💨Tencent-By Hong
+18.141.208.166:443#新加坡💨Amazon-By Hong
+134.185.83.89:443#新加坡💨Oracle-By Hong
+43.170.38.62:443#新加坡💨ACE-By Hong
+149.248.10.46:443#美国💨The Constant-By Hong
+35.212.214.143:443#美国💨Google-By Hong
+45.32.87.15:443#美国💨The Constant-By Hong
+45.76.74.16:443#美国💨The Constant-By Hong
+149.248.39.216:443#美国💨The Constant-By Hong
