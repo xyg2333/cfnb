@@ -1,6 +1,5 @@
-47.83.30.123:8443#香港💨Alibaba-By Hong
-185.132.125.200:443#香港💨M247-By Hong
-45.113.3.50:443#香港💨cognetcloud-By Hong
-156.226.168.206:443#香港💨AkileCloud-By Hong
-47.239.132.1:443#香港💨Alibaba-By Hong
-45.63.85.97:8443#美国💨The Constant-By Hong
+163.192.61.105:443#美国💨Oracle-By Hong
+163.192.62.250:443#美国💨Oracle-By Hong
+66.42.97.131:443#美国💨The Constant-By Hong
+155.117.18.19:443#美国💨FiberState-By Hong
+172.86.114.80:443#美国💨RouterHosting-By Hong
