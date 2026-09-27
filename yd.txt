@@ -1,5 +1,2 @@
-163.192.61.105:443#美国💨Oracle-By Hong
-163.192.62.250:443#美国💨Oracle-By Hong
-66.42.97.131:443#美国💨The Constant-By Hong
-155.117.18.19:443#美国💨FiberState-By Hong
-172.86.114.80:443#美国💨RouterHosting-By Hong
+167.179.83.19:443#日本💨The Constant-By Hong
+157.254.198.27:443#日本💨Sharon-By Hong
