@@ -1,20 +1,20 @@
-141.11.76.66:443#香港💨LSHIY-By Hong
-96.9.228.207:443#香港💨LEASEWEB-By Hong
-45.192.247.199:443#香港💨AkileCloud-By Hong
-141.11.148.138:443#香港💨AkileCloud-By Hong
-42.200.173.201:443#香港💨HKT-By Hong
-158.179.184.164:8443#日本💨Oracle-By Hong
-45.76.222.52:8443#日本💨The Constant-By Hong
-149.28.21.186:8443#日本💨The Constant-By Hong
-158.101.132.216:8443#日本💨Oracle-By Hong
-194.68.27.154:8443#日本💨M247-By Hong
-195.85.19.136:443#新加坡💨LEASEWEB-By Hong
-43.134.174.114:443#新加坡💨Tencent-By Hong
-18.141.208.166:443#新加坡💨Amazon-By Hong
-134.185.83.89:443#新加坡💨Oracle-By Hong
+156.224.76.187:443#香港💨AkileCloud-By Hong
+45.221.113.70:443#香港💨VMISS-By Hong
+156.224.77.87:443#香港💨AkileCloud-By Hong
+43.161.253.137:443#香港💨Tencent-By Hong
+172.93.188.25:443#香港💨xTom-By Hong
+108.160.130.168:8443#日本💨The Constant-By Hong
+154.31.114.162:8443#日本💨DMIT-By Hong
+47.91.14.62:8443#日本💨Alibaba-By Hong
+45.76.106.151:8443#日本💨The Constant-By Hong
+158.179.184.243:8443#日本💨Oracle-By Hong
+5.223.95.244:443#新加坡💨Hetzner-By Hong
 43.170.38.62:443#新加坡💨ACE-By Hong
-149.248.10.46:443#美国💨The Constant-By Hong
-35.212.214.143:443#美国💨Google-By Hong
-45.32.87.15:443#美国💨The Constant-By Hong
-45.76.74.16:443#美国💨The Constant-By Hong
-149.248.39.216:443#美国💨The Constant-By Hong
+5.223.52.82:443#新加坡💨Hetzner-By Hong
+139.162.60.149:443#新加坡💨Akamai Connected-By Hong
+160.187.141.61:443#新加坡💨WebHorizon-By Hong
+104.194.79.122:443#美国💨IT7-By Hong
+216.40.87.253:443#美国💨Zont-By Hong
+104.168.144.216:443#美国💨HostPapa-By Hong
+45.78.69.159:443#美国💨IT7-By Hong
+31.59.136.122:443#美国💨AS56971-By Hong
