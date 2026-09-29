@@ -1,20 +1,20 @@
-43.175.131.30:443#香港💨ACE-By Hong
-47.86.103.60:443#香港💨Alibaba-By Hong
-103.135.250.82:443#香港💨DMIT-By Hong
-43.161.253.137:443#香港💨Tencent-By Hong
-38.147.173.136:443#香港💨LUCIDACLOUD-By Hong
-54.95.106.234:443#日本💨Amazon-By Hong
-13.193.0.195:443#日本💨Amazon-By Hong
-8.209.238.61:443#日本💨Alibaba-By Hong
-185.200.66.206:443#日本💨xTom-By Hong
-35.74.219.99:443#日本💨Amazon-By Hong
-217.116.170.165:443#新加坡💨Coaxial-By Hong
-162.4.173.148:443#新加坡💨VAYNE-By Hong
-103.3.26.26:443#新加坡💨Nexusguard-By Hong
-217.116.170.32:443#新加坡💨Coaxial-By Hong
-195.85.19.194:443#新加坡💨LEASEWEB-By Hong
-8.35.211.163:443#美国💨Cloudflare-By Hong
-8.39.125.158:443#美国💨Cloudflare-By Hong
-8.39.125.34:443#美国💨Cloudflare-By Hong
-8.35.211.167:443#美国💨Cloudflare-By Hong
-8.35.211.199:443#美国💨Cloudflare-By Hong
+146.56.235.170:8443#中国💨Tencent Computer-By Hong
+146.56.221.148:8443#中国💨Tencent Computer-By Hong
+43.161.217.30:8443#香港💨Tencent-By Hong
+38.207.178.173:2087#香港💨LUCIDACLOUD-By Hong
+47.83.30.123:8443#香港💨Alibaba-By Hong
+36.50.84.133:8443#日本💨xTom-By Hong
+168.110.17.182:443#日本💨Oracle-By Hong
+43.224.33.225:8443#日本💨The Constant-By Hong
+45.76.220.62:8443#日本💨The Constant-By Hong
+207.148.114.119:443#日本💨The Constant-By Hong
+43.173.160.14:8443#新加坡💨Tencent-By Hong
+5.223.71.252:443#新加坡💨Hetzner-By Hong
+168.144.97.250:443#新加坡💨DigitalOcean-By Hong
+43.134.104.39:8443#新加坡💨Tencent-By Hong
+43.156.2.91:443#新加坡💨Tencent-By Hong
+43.155.128.147:8443#韩国💨Tencent-By Hong
+43.162.81.241:8443#美国💨Tencent-By Hong
+147.45.124.211:8443#美国💨ZhouyiSat-By Hong
+108.186.246.227:443#美国💨WawaCloud-By Hong
+170.106.74.35:443#美国💨Tencent-By Hong
