@@ -1,1 +1,10 @@
-104.238.160.14:443#日本💨The Constant-By Hong
+206.238.42.229:8443#新加坡💨Tcloudnet-By Hong
+139.180.220.7:443#新加坡💨The Constant-By Hong
+47.237.211.9:443#新加坡💨Alibaba-By Hong
+162.128.72.114:443#新加坡💨Zenlayer-By Hong
+195.85.19.194:443#新加坡💨LEASEWEB-By Hong
+8.35.211.167:443#美国💨Cloudflare-By Hong
+8.34.70.210:8443#美国💨Cloudflare-By Hong
+166.88.33.34:2053#美国💨CNServer-By Hong
+179.255.185.126:443#美国💨HOST-By Hong
+168.151.20.157:443#美国💨BAGE-By Hong
