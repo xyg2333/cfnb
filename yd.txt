@@ -1,20 +1,20 @@
-43.175.131.30:443#香港💨ACE-By Hong
-45.145.228.222:443#香港💨LUCIDACLOUD-By Hong
-216.23.94.147:443#香港💨BITSFLOWCLOUD-By Hong
-149.104.27.213:443#香港💨LUCIDACLOUD-By Hong
-68.64.178.42:443#香港💨LUCIDACLOUD-By Hong
-202.182.97.156:443#日本💨The Constant-By Hong
-54.92.75.254:443#日本💨Amazon-By Hong
-172.237.0.160:443#日本💨Akamai Connected-By Hong
-64.176.60.226:443#日本💨The Constant-By Hong
-74.222.12.215:443#日本💨Perfect-By Hong
-139.162.33.165:443#新加坡💨Akamai Connected-By Hong
-45.32.121.27:443#新加坡💨The Constant-By Hong
-45.76.189.166:443#新加坡💨The Constant-By Hong
-94.237.66.99:443#新加坡💨UpCloud-By Hong
-23.111.15.31:443#新加坡💨LEASEWEB-By Hong
-35.212.239.108:443#美国💨Google-By Hong
-113.20.7.205:8443#美国💨MULTACOM-By Hong
-217.60.249.168:8443#美国💨AS56971-By Hong
-152.70.157.193:443#美国💨Oracle-By Hong
-205.185.126.59:443#美国💨FranTech-By Hong
+45.38.60.153:8443#香港-01 By Hong
+82.27.116.182:443#香港-02 By Hong
+45.149.186.154:443#香港-03 By Hong
+45.39.190.155:443#香港-04 By Hong
+45.202.248.172:443#香港-05 By Hong
+45.76.178.112:443#新加坡-01 By Hong
+64.120.95.175:8443#新加坡-02 By Hong
+47.82.155.79:443#新加坡-03 By Hong
+45.130.164.109:443#新加坡-04 By Hong
+62.146.232.232:443#新加坡-05 By Hong
+64.176.54.200:443#日本-01 By Hong
+45.77.180.114:443#日本-02 By Hong
+74.222.12.215:443#日本-03 By Hong
+92.113.124.228:443#日本-04 By Hong
+45.63.124.130:443#日本-05 By Hong
+64.186.247.122:8443#美国-01 By Hong
+64.177.112.4:443#美国-02 By Hong
+66.92.249.121:443#美国-03 By Hong
+74.88.195.29:443#美国-04 By Hong
+45.91.248.144:8443#美国-05 By Hong
